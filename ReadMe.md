@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 Sou estudante de Engenharia de Software.<br>🕵🏻‍♂️ Entusiasta de Data Science.
+👨🏻‍🎓 Estudante de Engenharia de Software.<br>🕵🏻‍♂️ Entusiasta de Data Science.
 
 
 ## 🌐 Socials:
